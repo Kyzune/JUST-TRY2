@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: gainsboro;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 30px;
+    position: fixed;
+}
+table{
+padding: 50px;
+margin-left: auto;
+margin-right: auto;
+background-color: aquamarine;
+}
+
+input[type="submit"]{
+background-color: #22a4cf;
+}
+
+input[type="reset"]{
+background-color: #F74F4F;
+}
